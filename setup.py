@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 _PackageName = "cira-labs-leat"
 _Namespace = ['cira', 'cira.labs']
-_Version = "0.0.1"
+_Version = "0.0.2"
 
 _Author = "Canadian Internet Registration Authority"
 _Description = "CIRA utility to atomatically renew DANE TLSA records in zone files when a LetsEncrypt certificate is renewed"
