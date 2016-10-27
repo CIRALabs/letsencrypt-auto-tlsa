@@ -16,6 +16,9 @@ PackageData = {
 
 # Make exe versions of the scripts:
 EntryPoints = {
+    'console_scripts': [
+        'le-at = cira.labs.leat.renew:main'
+    ]
 }
 
 InstallRequirements = [
