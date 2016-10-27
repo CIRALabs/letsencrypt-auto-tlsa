@@ -1,0 +1,5 @@
+recursive-include src *
+recursive-exclude docs *
+global-exclude *pyc
+global-exclude *pck
+global-exclude *pickle

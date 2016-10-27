@@ -1,0 +1,9 @@
+Metadata-Version: 0.0.1
+Name: ca-cira-leat
+Version: 0.0.1
+Summary: CIRA LetsEncrypt DANE TLSA record auto-renew 
+Home-page: https://github.com/CIRALabs/letsencrypt-auto-tlsa
+Author: CIRA
+Author-email: test@cira.ca
+Description: "CIRA utility to atomatically renew DANE TLSA records in zone files when a LetsEncrypt certificate is renewed"
+Platform: UNKNOWN
