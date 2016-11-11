@@ -5,7 +5,7 @@ _Namespace = ['cira', 'cira.labs']
 _Version = "0.0.2"
 
 _Author = "Canadian Internet Registration Authority"
-_Description = "CIRA utility to atomatically renew DANE TLSA records in zone files when a LetsEncrypt certificate is renewed"
+_Description = "CIRA utility to automatically renew DANE TLSA records in zone files when a LetsEncrypt certificate is renewed"
 
 ProjectScripts = [
 ]
